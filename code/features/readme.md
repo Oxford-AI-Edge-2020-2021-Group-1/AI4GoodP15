@@ -10,7 +10,7 @@ The challenge is the size of the ELP audio files (approximately 1.3Gb each). The
 Hence, this matlab script mains to collate audio snippets of interest to pass onto the Python training models.
 
 2. How the script works
-2.1 It reads the folder where the audio files are stored. 
-2.2 It audioreads 1 hour of 1 folder into smaller segments of 2mins, resulting in a matrix where columns of minutes and rows is the audio at that timestep within the 2minutes.
-2.3 A spectrogram was created on the audio snippet.
-2.4 detectSpeech is used from the Audio Toolbox to detect regions of interest within the 2min snippet to be stored and used in the classification models. 
+\n 2.1 It reads the folder where the audio files are stored. 
+\n 2.2 It audioreads 1 hour of 1 folder into smaller segments of 2mins, resulting in a matrix where columns of minutes and rows is the audio at that timestep within the 2minutes.
+\n 2.3 A spectrogram was created on the audio snippet.
+\n 2.4 detectSpeech is used from the Audio Toolbox to detect regions of interest within the 2min snippet to be stored and used in the classification models. 
