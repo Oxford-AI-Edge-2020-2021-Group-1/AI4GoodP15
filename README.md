@@ -1,16 +1,26 @@
-# Data Science Lifecycle Base Repo
+# Oxford's AI Group 1's solution to Project 15's ELP Repo
 
-Use this repo as a template repository for data science projects using the Data Science Life Cycle Process. This repo is meant to serve as a launch off point. Our goal is to introduce only **minimum viable opinions** into the structure of this repo in order to make this repository/framework useful across a variety of data science projects and workflows. Therefore, we will tend to err to the side of omitting something if we're not confident that it's widely useful or think it's overly opinionated. That shouldn't stop you from forking this repo and adapting it to fit the needs of your project/team/organization.
+## Members of Group 1 include:
+Rick Durham, Srikar Vedula, Sukanya Mandal, Thanya Chartsakulkanajarn, Oscar Ordenes, Harnaik Nahal. 
 
-With that in mind, if there is something that you think we're missing or should change, open an issue and we'll talk!
+# Introduction
+Microsoft's Project 15 approached Oxford University's AI group to work on objectives outlined on the P15 Challenge document (https://docs.google.com/document/d/1kMtjQrvL-XOqQCncvaZfVceHBbB6Vqxz/edit). Upon discussion, Group 1 has decided to further the development of gunshot identification and classification in the ELP audios. 
+
+# Problem analysis / Data preview
+A variety of ELP audios from different geographical areas were obtained and placed into a directory to work in MATLAB 2020b. Snippets needed to be collated as the 1.3Gb of 24hours of audio were to large to be analysed at once. The Audio Toolbox was heavily used. MATLAB code 
+
+# Modelling
+
+
+
+
+(https://drive.google.com/file/d/1_p6-_vdX0RQ0xff_PhFb6Tqz2CYR968U/view?usp=sharing)
+# 
 
 ## Get started.
 
-The only manual step required is that you have to manually create the labels. The label names, descriptions, and color codes can be found in the [.github/labels.yaml](/.github/labels.yaml) file. For more information on creating labels, review the GitHub docs [here](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label).
-
 ## Contributing
 
-Issues and suggestions for this template repo should be opened in the main [dslp repo](https://github.com/MicrosoftDSST/dslp/issues).
 
 ## Default Directory Structure
 
