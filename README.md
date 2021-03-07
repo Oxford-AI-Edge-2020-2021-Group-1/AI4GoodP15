@@ -17,10 +17,12 @@ getAudio and getData help compile big audio files into smaller snippets.
 
 
 
-(https://drive.google.com/file/d/1_p6-_vdX0RQ0xff_PhFb6Tqz2CYR968U/view?usp=sharing)
+
 # 
 
 ## Get started.
+Please view this video (https://drive.google.com/file/d/1_p6-_vdX0RQ0xff_PhFb6Tqz2CYR968U/view?usp=sharing)_ for more information on our work.
+More documentation on our work can be found here along with our information if you would like to contact us to collaborate! (https://sway.office.com/BAUOcURUXpxB3BTu)
 
 ## Contributing
 
