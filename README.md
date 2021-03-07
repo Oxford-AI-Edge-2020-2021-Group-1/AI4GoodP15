@@ -13,7 +13,7 @@ main_v2 is the mean live script.
 getAudio and getData help compile big audio files into smaller snippets. 
 
 # Modelling
- 
+The audio datasets are located under code/datsets/readme.md where the google drive link is provided. Since the files size is too huge, we could not upload the audio files into github. Under the google drive link, download the raw_audio_training_dataset and raw_audio_testing_dataset. Each one contains a zip folder for all the training and testing audio files. Save the training audio files and testing audio files in separate directories. Keep the train.csv and test.csv in the same directory as the model. The model can be found under code/models/project15finalmodel.py. Change the directories of where you has saved the training audio files, testing audio files, train.csv, test.csv and the directories of where the spectrogram images will be saved once you run the model. The model itself will take 20-30 minutes to run as it needs to conver the audio files into spectrograms and then compile the model. Take several audio files and save them into a seperate directory where you will test/evaluate the model. 
 
 # Get started.
 Please view this video (https://drive.google.com/file/d/1_p6-_vdX0RQ0xff_PhFb6Tqz2CYR968U/view?usp=sharing)_ for more information on our work.
