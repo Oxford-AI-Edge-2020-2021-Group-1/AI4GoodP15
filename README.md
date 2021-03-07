@@ -7,7 +7,10 @@ Rick Durham, Srikar Vedula, Sukanya Mandal, Thanya Chartsakulkanajarn, Oscar Ord
 Microsoft's Project 15 approached Oxford University's AI group to work on objectives outlined on the P15 Challenge document (https://docs.google.com/document/d/1kMtjQrvL-XOqQCncvaZfVceHBbB6Vqxz/edit). Upon discussion, Group 1 has decided to further the development of gunshot identification and classification in the ELP audios. 
 
 # Problem analysis / Data preview
-A variety of ELP audios from different geographical areas were obtained and placed into a directory to work in MATLAB 2020b. Snippets needed to be collated as the 1.3Gb of 24hours of audio were to large to be analysed at once. The Audio Toolbox was heavily used. MATLAB code 
+A variety of ELP audios from different geographical areas were obtained and placed into a directory to work in MATLAB 2020b. Snippets needed to be collated as the 1.3Gb of 24hours of audio were to large to be analysed at once. The Audio Toolbox was heavily used. MATLAB code included in the features folder. 
+
+main_v2 is the mean live script. 
+getAudio and getData help compile big audio files into smaller snippets. 
 
 # Modelling
 
